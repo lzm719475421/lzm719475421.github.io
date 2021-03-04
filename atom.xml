@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzemin.xyz</id>
     <title>坂田井川</title>
-    <updated>2021-03-04T01:08:49.499Z</updated>
+    <updated>2021-03-04T01:28:16.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzemin.xyz"/>
     <link rel="self" href="https://liuzemin.xyz/atom.xml"/>
@@ -11,13 +11,14 @@
     <icon>https://liuzemin.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, 坂田井川</rights>
     <entry>
-        <title type="html"><![CDATA[摸鱼搭建博客的几小时艰辛与不屑]]></title>
+        <title type="html"><![CDATA[吐槽下上班摸鱼时搭建博客的艰难 ]]></title>
         <id>https://liuzemin.xyz/post/mo-yu-da-jian-bo-ke-de-ji-xiao-shi-jian-xin-yu-bu-xie/</id>
         <link href="https://liuzemin.xyz/post/mo-yu-da-jian-bo-ke-de-ji-xiao-shi-jian-xin-yu-bu-xie/">
         </link>
         <updated>2021-03-03T10:00:13.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>   从啥也不会的开始第一步，到不停的吐槽摸鱼和朋友的不断帮助教学搭建了属于自己的博客，这过程真是说是苦难绝对不会过分，因为Github连接的不稳定，因为墙内网络的连接十分不稳定。我不推荐使用墙内的网络搭建博客或者使用Github。
-   每天在写吧，总之非常操蛋，完全的小白............未完待续.......![](https://liuzemin.xyz/post-images/1614765916629.jpg)</code></pre>
+        <content type="html"><![CDATA[<pre><code> 昨天下午的时候摸鱼太无聊了，于是想把之前搭建博客的想法完成，然后联系朋友教我，过程真是手把手教我搭建。
+  其实搭建步骤不是很难，但是阻挡我的不是过程的复杂繁琐，而是国内的围墙太高了一直链接不到GitHub，后面找到办法解决过后不知道为何gridea也开始出问题，一直同步失败，当然后面这些问题都得到了解决，不然也不会看到这篇文章。
+  搭建的过程也了解了下Github的基本使用，虽然这不是很难但对于我这种小白还是可以试一下。搭建了多久我朋友就听了我发了多久的牢骚，现在写的时候心情已经平复了很多，已经没啥好吐槽，随便潦草的巴拉两句........待续.......</code></pre>
 ]]></content>
     </entry>
 </feed>
